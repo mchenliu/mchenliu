@@ -9,15 +9,15 @@
 
 **:hammer: Languages and Tools I Use:**
 
-:page_facing_up: Excel  
+- :page_facing_up: Excel  
 
-:snake: Python  
+- :snake: Python  
 
-:bar_chart: SQL  
+- :bar_chart: SQL  
 
-:art: Tableau  
+- :art: Tableau  
 
-:performing_arts: Power BI
+- :performing_arts: Power BI
 
 **:tada: Fun Facts About Me:**
 
