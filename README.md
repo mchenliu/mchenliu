@@ -21,9 +21,9 @@
 
 **:tada: Fun Facts About Me:**
 
-:movie_camera: I'm a huge fan of sitcoms, especially a hardcore lover of *Friends* :coffee:.
+- :movie_camera: I'm a huge fan of sitcoms, especially a hardcore lover of *Friends* :coffee:.
 
-When I'm not learning to code, you'll find me traveling ✈️ or exploring the woods :cactus:.
+- When I'm not learning to code, you'll find me traveling ✈️ or exploring the woods :cactus:.
 
 **:mailbox: Reach Out:** LinkedIn :link:
 
