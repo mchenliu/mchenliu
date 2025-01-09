@@ -25,7 +25,7 @@
 
 - When I'm not learning to code, you'll find me traveling ✈️ or exploring the woods :cactus:.
 
-**:mailbox: Reach Out:** 👉 [LinkedIn](https://www.linkedin.com/in/meichenliu/) 
+**:mailbox: Reach Out** 👉 [LinkedIn](https://www.linkedin.com/in/meichenliu/) 
 
 :wave: Thanks for stopping by! Feel free to star :star2: any repo you find useful, and I'm always open to advice. Let's connect! :link:
 
