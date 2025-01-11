@@ -3,7 +3,7 @@
 :rocket: Currently, I'm on an exciting journey to become a Data Analyst.
 :mag: I'm all about making sense of data and building insightful dashboards. Automating boring stuff? Absolutely love it!
 
-**:construction: Current Project:** I'm analyzing my Spotify Streaming History to discover fun insights using :snake: Python.
+**:construction: Current Project:** Looking for inspiration.
 
 **:sparkle: Next Up:** Diving deeper into Python! :microscope:
 
